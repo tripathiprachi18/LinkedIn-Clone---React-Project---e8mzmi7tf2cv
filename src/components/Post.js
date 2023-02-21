@@ -1,7 +1,7 @@
 import React ,{forwardRef}from 'react'
 import { Avatar } from '@mui/material';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
-import './css/post.css'
+import './post.css'
 import ThumbUpIcon from '@mui/icons-material/ThumbUp';
 import ShareIcon from '@mui/icons-material/Share';
 import SendIcon from '@mui/icons-material/Send';
