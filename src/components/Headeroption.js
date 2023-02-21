@@ -1,6 +1,6 @@
 import React from 'react'
 import { Avatar } from '@mui/material';
-import "./css/header.css";
+import "./header.css";
 import { useSelector,useDispatch } from 'react-redux';
 import { selectUser ,logoutuser} from './features/userSlice';
 import firebase from "firebase";
