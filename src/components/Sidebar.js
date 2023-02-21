@@ -1,5 +1,5 @@
 import React from 'react'
-import "./css/sidebar.css"
+import "./sidebar.css"
 import { Avatar } from '@mui/material';
 import { useSelector } from 'react-redux';
 import { selectUser } from './features/userSlice';
