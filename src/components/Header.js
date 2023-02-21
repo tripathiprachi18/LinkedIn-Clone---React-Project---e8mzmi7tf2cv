@@ -6,7 +6,7 @@ import BusinessCenterIcon from '@mui/icons-material/BusinessCenter';
 import EmailIcon from '@mui/icons-material/Email';
 import CircleNotificationsIcon from '@mui/icons-material/CircleNotifications';
 import { Avatar } from '@mui/material';
-import "./css/header.css";
+import "./header.css";
 import {useSelector} from 'react-redux';
 import {selectUser} from './features/userSlice';
 
