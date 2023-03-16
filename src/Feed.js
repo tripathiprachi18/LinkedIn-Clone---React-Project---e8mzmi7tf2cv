@@ -20,7 +20,7 @@ function Feed() {
       e.preventDefault();
       db.collection("posts").add({
         name:user.displayName,
-        descrption:"this is test",
+        descrption:"Web Developer",
         message:input,
         photoURL:user.photoURL,
         timestamp:firebase.firestore.FieldValue.serverTimestamp(),
